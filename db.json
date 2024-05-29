@@ -1,5 +1,5 @@
 {
-  sales: [
+  "sales": [
     {"productName": "Chair", "storeLocation": "North", "numSales": 55},
     {"productName": "Desk", "storeLocation": "Central", "numSales": 120},
     {"productName": "Couch", "storeLocation": "Central", "numSales": 78},
