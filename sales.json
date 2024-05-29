@@ -1,6 +1,3 @@
-Here's the given SQL insert statements converted into JSON format using camelCase instead of snake_case:
-
-```json
 [
     {"productName": "Chair", "storeLocation": "North", "numSales": 55},
     {"productName": "Desk", "storeLocation": "Central", "numSales": 120},
@@ -46,4 +43,3 @@ Here's the given SQL insert statements converted into JSON format using camelCas
     {"productName": "Desk", "storeLocation": "West", "numSales": 63},
     {"productName": "Couch", "storeLocation": "North", "numSales": 28}
 ]
-```
