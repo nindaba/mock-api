@@ -26,6 +26,6 @@
         {"productName": "Chair", "storeLocation": "Central", "numSales": 121},
         {"productName": "Desk", "storeLocation": "South", "numSales": 85},
         {"productName": "Couch", "storeLocation": "North", "numSales": 43},
-        {"productName": "Desk", "storeLocation": "West", "numSales": 10},
+        {"productName": "Desk", "storeLocation": "West", "numSales": 10}
     ]
 }
