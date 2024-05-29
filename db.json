@@ -1,9 +1,5 @@
 {
-  sales: {
-    Here's the given SQL insert statements converted into JSON format using camelCase instead of snake_case:
-
-```json
-[
+  sales: [
     {"productName": "Chair", "storeLocation": "North", "numSales": 55},
     {"productName": "Desk", "storeLocation": "Central", "numSales": 120},
     {"productName": "Couch", "storeLocation": "Central", "numSales": 78},
@@ -47,7 +43,5 @@
     {"productName": "Chair", "storeLocation": "Central", "numSales": 47},
     {"productName": "Desk", "storeLocation": "West", "numSales": 63},
     {"productName": "Couch", "storeLocation": "North", "numSales": 28}
-]
-```
-  }
+  ]
 }
