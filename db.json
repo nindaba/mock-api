@@ -27,21 +27,5 @@
         {"productName": "Desk", "storeLocation": "South", "numSales": 85},
         {"productName": "Couch", "storeLocation": "North", "numSales": 43},
         {"productName": "Desk", "storeLocation": "West", "numSales": 10},
-        {"productName": "Chair", "storeLocation": "North", "numSales": 5},
-        {"productName": "Chair", "storeLocation": "Central", "numSales": 16},
-        {"productName": "Desk", "storeLocation": "South", "numSales": 9},
-        {"productName": "Couch", "storeLocation": "West", "numSales": 22},
-        {"productName": "Couch", "storeLocation": "Central", "numSales": 59},
-        {"productName": "Chair", "storeLocation": "South", "numSales": 76},
-        {"productName": "Chair", "storeLocation": "West", "numSales": 48},
-        {"productName": "Chair", "storeLocation": "North", "numSales": 19},
-        {"productName": "Desk", "storeLocation": "North", "numSales": 3},
-        {"productName": "Couch", "storeLocation": "West", "numSales": 63},
-        {"productName": "Chair", "storeLocation": "South", "numSales": 81},
-        {"productName": "Desk", "storeLocation": "North", "numSales": 85},
-        {"productName": "Chair", "storeLocation": "North", "numSales": 90},
-        {"productName": "Chair", "storeLocation": "Central", "numSales": 47},
-        {"productName": "Desk", "storeLocation": "West", "numSales": 63},
-        {"productName": "Couch", "storeLocation": "North", "numSales": 28}
     ]
 }
